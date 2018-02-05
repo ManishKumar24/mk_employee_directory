@@ -1,0 +1,31 @@
+{
+  "name": "employee-directory",
+  "version": "1.0.0",
+  "description": "Employee directory project, part of edureka's mastering node js certification project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "employee-directory"
+  },
+  "keywords": [
+    "employee",
+    "directory",
+    "employee-directory",
+    "employee-records",
+    "records",
+    "MEAN"
+  ],
+  "author": "Kaushal",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "body-parser": "^1.18.2",
+    "chalk": "^2.3.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9"
+  }
+}
